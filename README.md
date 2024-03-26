@@ -28,5 +28,9 @@ Clone the project using the following command: https://github.com/PrajwalSn13/DS
 
 - Prajwal Subramanya S N
   - Email: prajwalsn1990@gmail.com
+ 
+## **License**
+---
+View LISCENSE.md file for more details.
 
 
